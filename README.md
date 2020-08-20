@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my PhD at Cahlmers.
+- 🔭 I’m currently working on my PhD at Chalmers.
 - 🌱 I’m currently learning all about product platforms and  product development and design research.
 - 👯 I’m looking to collaborate on the development of tools and methods to help platform architects build flexible platforms.
 - 🤔 I’m looking for help with design research, and the planning of research activities.
